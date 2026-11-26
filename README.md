@@ -10,6 +10,8 @@ One original one-line 1-star review written in the voice of a houseplant about i
 
 ## Run it
 
+The program writes the entry exactly as quoted above, with no trailing newline.
+
 ```sh
 python3 main.py
 ```
